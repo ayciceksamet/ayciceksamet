@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayciceksamet](https://github.com/ayciceksamet)
 
-- 📝 I regulary write articles on [https://ayciceksamet.github.io](ayciceksamet.github.io)
+- 📝 I regulary write articles on [ayciceksamet.github.io](https://ayciceksamet.github.io)
 
 - 💬 Ask me about **full stack development, computer vision and deep learning**
 
