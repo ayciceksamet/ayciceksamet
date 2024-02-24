@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Aycicek</h1>
-<h3 align="center">Senior software developer, hungry for new technologies</h3>
+<h3 align="center">Senior software developer</h3>
 
 - 🌱 I’m currently learning **deep learning on mobile devices and full stack development**
 
