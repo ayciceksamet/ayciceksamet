@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [ayciceksamet.github.io](https://ayciceksamet.github.io)
 
-- 💬 Ask me about **Full stack development, Java, Spring Framework, Javascript, React and NodeJs**
+- 💬 Ask me about **Full stack development, Cloud Tech, Architecture**
 
 - 📫 How to reach me **ayciceksamet [at] gmail com**
 
